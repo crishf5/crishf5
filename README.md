@@ -1,10 +1,11 @@
-# Hola, soy Cristina Hernández 👋🏻
+# *Hola, soy Cristina Hernández* 👋🏻
 
 ![Imagen de Portada](recursos/gatito.jpg)
 
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Me presento, interiorista desde hace cuatro años, hoy en día en formación de FP de Desarrollo de Aplicaciones Multiplataforma por vocación. 
+Amante de los animales y de la naturaleza.
 
 ## Características
 
