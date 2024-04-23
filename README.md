@@ -1,6 +1,6 @@
 # Repositorio Cristina Hernández
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](recursos/gatito.jpg)
 
 ## Descripción
 
