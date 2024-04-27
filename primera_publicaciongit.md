@@ -1,4 +1,4 @@
-# Primera publicación con GitHub
+# <img src="recursos/GitHub.png" alt="Texto alternativo" width="50"> Primera publicación con GitHub 
 ## Descripción del proceso realizado
 ### Breve descripción de GitHub
 Para explicar el proceso de subida de trabajos realizados empezaremos explicando de que se trata GitHub y algunas de sus cualidades.
@@ -22,3 +22,5 @@ Mediante este portal podemos incluso descargar el código de otro desarrollador 
 [www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores](https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores)
 
 ![alt text](recursos/GitHub.png)
+
+
