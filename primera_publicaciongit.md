@@ -10,4 +10,4 @@ Mediante este portal podemos incluso descargar el código de otro desarrollador 
 
 ### Proceso de ejemplo en GitHub
 
-![alt text]()
+![alt text](recursos/GitHub.png)
